@@ -1,4 +1,6 @@
 #Created by Partha Pratim Ray, https://scholar.google.com/citations?user=ioplfagAAAAJ&hl=en&oi=ao on August, 2023
+#This code will display a plot showing how the WBC speed changes under different scenarios (by varying Pd and Cr). 
+#It'll help you compare which mechanism results in faster speeds under different conditions.
 
 import numpy as np
 import matplotlib.pyplot as plt
