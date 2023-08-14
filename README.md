@@ -16,6 +16,7 @@ To determine the time taken by the WBC to engulf a pathogen, we need to define s
 * Engulfment Speed: How quickly the WBC engulfs the pathogen once it reaches it. This might differ slightly based on whether the WBC is crawling or paddling, but for the sake of simplicity, let's consider a constant value.
 * Given that speed is distance over time (speed = distance/time), the time taken to reach the pathogen is time = distance/speed.
 
-file:///home/partha/Pictures/Screenshots/Screenshot%20from%202023-08-14%2014-37-49.png
+
+![Screenshot from 2023-08-14 14-37-49](https://github.com/ParthaPRay/RayDynamics/assets/1689639/8ff01262-cacf-4afb-aaec-5236e4fb852b)
 
 
